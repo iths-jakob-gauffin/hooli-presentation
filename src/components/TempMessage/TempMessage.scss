@@ -1,0 +1,9 @@
+.TempMessage{
+  display: flex;
+  justify-content: center;
+
+  &__Title{
+    color: steelblue;
+    font-size: 3rem;
+  }
+}
